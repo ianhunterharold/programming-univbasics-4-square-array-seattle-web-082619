@@ -4,7 +4,7 @@ array2= []
 counter = 0;
 while array[counter] do 
   squared = array[counter]**2
-  #puts squared
+  #puts squared puts is my console.log of javascript but for ruby
   array2.push(squared)
   counter += 1
 end 
